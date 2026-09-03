@@ -1,0 +1,8 @@
+Django>=5.0,<5.2
+python-dotenv>=1.0.1
+psycopg2-binary>=2.9.9
+Pillow>=10.2.0
+dj-database-url>=2.1.0
+reportlab>=4.2.0
+pypdf>=5.0.0
+pywin32>=306; platform_system == "Windows"
